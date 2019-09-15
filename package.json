@@ -1,0 +1,48 @@
+{
+  "name": "meta-gardens",
+  "version": "1.0.0",
+  "description": "Meta Garden Services - Property Maintenance - Online Vegetable Store",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WideSpreadX/meta-gardens.git"
+  },
+  "keywords": [
+    "property",
+    "maintenance",
+    "landscaping",
+    "hardscaping",
+    "horticulture",
+    "pruning",
+    "plants",
+    "gardens",
+    "mulch",
+    "stone",
+    "clean-ups",
+    "leaf",
+    "removal",
+    "excavation",
+    "patios",
+    "walls",
+    "fence",
+    "water",
+    "fire",
+    "feature",
+    "farmington",
+    "avon",
+    "west",
+    "hartford",
+    "ct",
+    "conn",
+    "connecticut"
+  ],
+  "author": "Jonny O",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WideSpreadX/meta-gardens/issues"
+  },
+  "homepage": "https://github.com/WideSpreadX/meta-gardens#readme"
+}
